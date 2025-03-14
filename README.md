@@ -8,4 +8,4 @@ Em seguida crie um server pelo aternos.
 
 Manda o link no discord.
 
-E partiu jogatina.
+E partiu pra jogatina.
